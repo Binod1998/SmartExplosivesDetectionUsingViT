@@ -1,1 +1,1 @@
-# detecion of IEDs using different AI models 
+# Detecion of IEDs using different AI models (ReLU, PReLU)
